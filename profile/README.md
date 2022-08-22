@@ -1,4 +1,3 @@
 Welcome to 24i GitHub Organisations Repositories, managed by 24i DevOps team
 
-![](images/24i_ogo.png)
-git 
+![](24i/.github/images/24i_logo.png)
