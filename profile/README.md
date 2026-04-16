@@ -8,7 +8,7 @@
 
 # Welcome to 24i's GitHub Organization
 
-Managed by the **24i CloudOps team**.
+Managed by the **24i CloudOps** and **ITSM** teams.
 
 Building secure, scalable, and automated cloud platforms.
 
